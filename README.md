@@ -39,4 +39,9 @@ Locally preview production build:
 npm run preview
 ```
 
+git init && git add . && git commit -m "Init Nuxt app"
+git branch -M main
+git remote add origin https://github.com/<username>/<project-name>.git
+git push -u origin main
+
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
