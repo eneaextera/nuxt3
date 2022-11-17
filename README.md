@@ -38,7 +38,7 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-Github:
+## Github
 
 ```bash
 git init && git add . && git commit -m "Init Nuxt app"
