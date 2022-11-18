@@ -18,6 +18,6 @@ export default defineNuxtConfig({
       defaultLocale: 'en',
     },
     generate: {
-      routes: ['/es']
+      routes: ['/it']
     }*/
   })
